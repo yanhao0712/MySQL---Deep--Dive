@@ -15,7 +15,7 @@
 
 <img width="1168" height="252" alt="image" src="https://github.com/user-attachments/assets/8a6e6d9a-6a64-40d0-a77a-1628dd02d1b7" />
 
-在 391 ms (execution: 6 ms, fetching: 385 ms) 内检索到从 1 开始的 1 行
+
 
 如果我们不是查找*，而是查找其他的键呢
 
